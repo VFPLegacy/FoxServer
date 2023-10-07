@@ -1,3 +1,4 @@
 {root}\FoxServer.dll;https://github.com/Irwin1985/foxserver/raw/main/FoxServer.dll
 {root}\FoxServer.exe;https://github.com/Irwin1985/foxserver/raw/main/FoxServer.exe
 {root}\WinSW.exe;https://github.com/Irwin1985/foxserver/raw/main/WinSW.exe
+{root}\JsonFox.app;https://github.com/Irwin1985/foxserver/raw/main/JsonFox.app
