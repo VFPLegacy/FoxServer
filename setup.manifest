@@ -5,4 +5,3 @@
 {root}\ClrHost.dll;https://github.com/Irwin1985/foxserver/raw/main/ClrHost.dll
 {root}\FSUtility.dll;https://github.com/Irwin1985/foxserver/raw/main/FSUtility.dll
 {root}\wwDotNetBridge.dll;https://github.com/Irwin1985/foxserver/raw/main/wwDotNetBridge.dll
-{root}\wwDotNetBridge.prg;https://github.com/Irwin1985/foxserver/raw/main/wwDotNetBridge.prg
