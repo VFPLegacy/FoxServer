@@ -15,6 +15,9 @@ Puedes utilizar la herramienta MagicMenu para simplificar el proceso de creació
   
 Para obtener más información sobre MagicMenu, visita el repositorio: [MagicMenu en GitHub](https://github.com/Irwin1985/MagicMenu).
 
+## Documentación
+[ControllerHelper](ControllerHelper.md)
+
 ## Contribuciones
 
 ¡Siéntete libre de contribuir y mejorar esta plantilla! Si tienes sugerencias, mejoras o correcciones, ¡no dudes en hacer un pull request!
