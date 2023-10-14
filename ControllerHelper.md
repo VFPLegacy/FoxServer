@@ -68,9 +68,9 @@ Ejemplo:
 ```foxpro
   IF oHelper.ExecuteQuery()
      nLastID = oHelper.GetLastID()
-     ? "Último ID insertado: " + TRANSFORM(nLastID)
+     && "Último ID insertado: " + TRANSFORM(nLastID)
   ELSE
-     ? "Error al insertar el registro"
+     && "Error al insertar el registro"
   ENDIF
 ```
 
@@ -84,7 +84,7 @@ Ejemplo:
      // Operación que genera una excepción
   CATCH TO loEx
      cErrorMessage = oHelper.GetExceptionMessage(loEx)
-     ? "Error: " + cErrorMessage
+     && "Error: " + cErrorMessage
   ENDTRY
 ```
 Estos son algunos de los métodos más comunes disponibles en la clase ControllerHelper. Puedes utilizarlos para gestionar las operaciones de base de datos y controlar las excepciones en tus controladores.
