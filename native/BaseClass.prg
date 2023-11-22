@@ -1,5 +1,5 @@
 && -------------------------------------------------------- &&
-&& <<_screen.oHelper.oLanguage.Translate("_6RH1ALSQD")>>
+&& {CLASS_HEADER}
 && -------------------------------------------------------- &&
 #include "macros.h"
 Define Class Base as Session
