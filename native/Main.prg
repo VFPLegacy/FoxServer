@@ -1,7 +1,7 @@
 && -------------------------------------------------------- &&
 * {CLASS_HEADER}
 && -------------------------------------------------------- &&
-#include "macros.h"
+#include "src\header\macros.h"
 DEFINE CLASS {CLASS_NAME} AS Base OLEPUBLIC
 	cHost 		  = "{HOST_NAME}"
 	nPort 		  = {PORT}
