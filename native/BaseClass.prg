@@ -1,6 +1,3 @@
-&& -------------------------------------------------------- &&
-&& {CLASS_HEADER}
-&& -------------------------------------------------------- &&
 Define Class Base as Session
 	Procedure loadJsonFox
 		If Type('_screen.json') == 'U' or Type('_screen.json.version') == 'U'

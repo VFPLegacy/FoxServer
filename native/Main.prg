@@ -1,5 +1,7 @@
 && -------------------------------------------------------- &&
+*
 * {CLASS_HEADER}
+*
 && -------------------------------------------------------- &&
 #include "src\header\macros.h"
 Set Procedure To "src\prg\BaseClass.prg" additive
@@ -34,3 +36,4 @@ DEFINE CLASS {CLASS_NAME} AS Base OLEPUBLIC
 		this.oJson = _Screen.json.parse(GET_BODY())
 	EndProc
  ENDDEFINE
+ 
