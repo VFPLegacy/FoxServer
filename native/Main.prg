@@ -2,6 +2,7 @@
 * {CLASS_HEADER}
 && -------------------------------------------------------- &&
 #include "src\header\macros.h"
+Set Procedure To "src\prg\BaseClass.prg" additive
 DEFINE CLASS {CLASS_NAME} AS Base OLEPUBLIC
 	cHost 		  = "{HOST_NAME}"
 	nPort 		  = {PORT}
