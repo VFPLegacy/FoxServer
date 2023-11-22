@@ -1,7 +1,6 @@
 && -------------------------------------------------------- &&
 && {CLASS_HEADER}
 && -------------------------------------------------------- &&
-#include "macros.h"
 Define Class Base as Session
 	Procedure loadJsonFox
 		If Type('_screen.json') == 'U' or Type('_screen.json.version') == 'U'
