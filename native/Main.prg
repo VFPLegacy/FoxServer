@@ -1,8 +1,8 @@
 && -------------------------------------------------------- &&
-* <(_screen.oHelper.oLanguage.Translate("_6Q80XDL46"))>
+* {CLASS_HEADER}
 && -------------------------------------------------------- &&
 #include "macros.h"
-DEFINE CLASS <(lcClassName)> AS Base OLEPUBLIC
+DEFINE CLASS {CLASS_NAME} AS Base OLEPUBLIC
 	cHost 		  = "<(ALLTRIM(loService.cHost))>"
 	nPort 		  = <(loService.nPort)>
 	oRequest 	  = .NULL.
@@ -13,13 +13,13 @@ DEFINE CLASS <(lcClassName)> AS Base OLEPUBLIC
 	cAPIPath	  = ""
 	
 	PROCEDURE AddControllers
-		* <(_screen.oHelper.oLanguage.Translate("_6Q80XFXE0"))>
+		* {CLASS_ROUTE_CAPTION}
 		ROUTE("/hello", "pHello")
-		* <(_screen.oHelper.oLanguage.Translate("_6Q91CY4IV"))>
+		* {CLASS_CONTROLLER_CAPTION}
 *!*			CONTROLLER("/productos", CREATEOBJECT("ProductosController"))
 	ENDPROC
 	
-	* <(_screen.oHelper.oLanguage.Translate("_6Q80XGUMG"))>
+	* {CLASS_ROUTE_IMPLEMENTATION}
 	PROCEDURE pHello
 		CONTENT_TYPE("application/json")
 		CONTENT(GET_JSON_RESPONSE("correcta", .null., "VFP Rocks!"))
