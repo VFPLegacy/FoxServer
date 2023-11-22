@@ -1,6 +1,7 @@
 && -------------------------------------------------------- &&
 * <(_screen.oHelper.oLanguage.Translate("_6Q80XDL46"))>
 && -------------------------------------------------------- &&
+#include "macros.h"
 DEFINE CLASS <(lcClassName)> AS Base OLEPUBLIC
 	cHost 		  = "<(ALLTRIM(loService.cHost))>"
 	nPort 		  = <(loService.nPort)>
