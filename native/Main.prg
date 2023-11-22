@@ -3,8 +3,8 @@
 && -------------------------------------------------------- &&
 #include "macros.h"
 DEFINE CLASS {CLASS_NAME} AS Base OLEPUBLIC
-	cHost 		  = "<(ALLTRIM(loService.cHost))>"
-	nPort 		  = <(loService.nPort)>
+	cHost 		  = "{HOST_NAME}"
+	nPort 		  = {PORT}
 	oRequest 	  = .NULL.
 	oResponse 	= .NULL.
 	oJson 		  = .NULL.
