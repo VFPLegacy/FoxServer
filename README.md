@@ -30,6 +30,7 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 - [WinSW](https://github.com/winsw/winsw): WinSW es una herramienta que permite ejecutar cualquier aplicación como un servicio de Windows.
 - [MagicMenu](https://github.com/Irwin1985/MagicMenu): Es una herramienta nativa para VFP que permite crear proyectos especiales como Aplicación de Consola, Servicio de Windows, Aplicaciones Web, entre otros.
 - [JSONFox](https://github.com/Irwin1985/JSONFox): JSONFox es una herramienta para VFP que permite codificar y decodificar objetos JSON entre otras funciones.
+- [FoxyPreviewer](https://www.foxypreviewer.com/): Imprimir reportes FRX a PDF.
 
 ---
 
