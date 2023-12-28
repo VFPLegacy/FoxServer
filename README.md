@@ -13,7 +13,7 @@ Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo LICENSE pa
 
 Puedes utilizar la herramienta MagicMenu para simplificar el proceso de creación de servicios web utilizando esta plantilla. MagicMenu automatiza la descarga y uso de estas mismas plantillas, permitiéndote concentrarte en el desarrollo de tu aplicación.
   
-Para obtener más información sobre MagicMenu, visita el repositorio: [MagicMenu en GitHub](https://github.com/Irwin1985/MagicMenu).
+Para obtener más información sobre MagicMenu, visita el repositorio: [MagicMenu en GitHub](https://github.com/VFPLegacy/MagicMenu).
 
 ## Documentación
 [ControllerHelper](ControllerHelper.md)
@@ -28,7 +28,7 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 
 - [wwDotNetBridge](https://github.com/RickStrahl/wwDotnetBridge): Una librería esencial para la interoperabilidad entre Visual FoxPro y .NET.
 - [WinSW](https://github.com/winsw/winsw): WinSW es una herramienta que permite ejecutar cualquier aplicación como un servicio de Windows.
-- [MagicMenu](https://github.com/Irwin1985/MagicMenu): Es una herramienta nativa para VFP que permite crear proyectos especiales como Aplicación de Consola, Servicio de Windows, Aplicaciones Web, entre otros.
+- [MagicMenu](https://github.com/VFPLegacy/MagicMenu): Es una herramienta nativa para VFP que permite crear proyectos especiales como Aplicación de Consola, Servicio de Windows, Aplicaciones Web, entre otros.
 - [JSONFox](https://github.com/Irwin1985/JSONFox): JSONFox es una herramienta para VFP que permite codificar y decodificar objetos JSON entre otras funciones.
 - [FoxyPreviewer](https://www.foxypreviewer.com/): Imprimir reportes FRX a PDF.
 
