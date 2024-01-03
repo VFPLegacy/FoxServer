@@ -6,5 +6,6 @@
 {root}\FSUtility.dll;https://github.com/Irwin1985/foxserver/raw/main/FSUtility.dll
 {root}\wwDotNetBridge.dll;https://github.com/Irwin1985/foxserver/raw/main/wwDotNetBridge.dll
 {root}\public\index.html;https://github.com/Irwin1985/foxserver/raw/main/index.html
+{root}\public\404.html;https://github.com/Irwin1985/foxserver/raw/main/404.html
 {root}\PrintPDF.exe;https://github.com/Irwin1985/foxserver/raw/main/PrintPDF.exe
 {root}\FoxyPreviewer.app;https://github.com/Irwin1985/foxserver/raw/main/FoxyPreviewer.app
