@@ -76,7 +76,8 @@ FoxServer sets a standard for JSON responses, ensuring that each response has th
   {
     "status": "success"|"error", 
     "data": null, 
-    "message": "a custom message for the HTTP client"}
+    "message": "a custom message for the HTTP client"
+  }
 ``` 
 simplifies response interpretation and improves consistency across your project.
 
@@ -171,8 +172,9 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRA MANERA, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRAS NEGOCIOS EN EL SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjI2OTU2MCwtMTAxNjkzNjg5NSwyMD
-g4NDIwNDYwLC0xMzM0MzI0NTIxLDc3NzYzNTk0MiwzMDgzMjQw
-OTcsLTEyNzgzMzUwMzAsLTIxMTgxMjM1NTYsNjI4NjIwNDY3LD
-czNDE2MzkyMywtMTg1MDYwMjg4MywtNzkwMTA2NTI0XX0=
+eyJoaXN0b3J5IjpbOTg2Mjk2NDg2LDIxMDYyNjk1NjAsLTEwMT
+Y5MzY4OTUsMjA4ODQyMDQ2MCwtMTMzNDMyNDUyMSw3Nzc2MzU5
+NDIsMzA4MzI0MDk3LC0xMjc4MzM1MDMwLC0yMTE4MTIzNTU2LD
+YyODYyMDQ2Nyw3MzQxNjM5MjMsLTE4NTA2MDI4ODMsLTc5MDEw
+NjUyNF19
 -->
