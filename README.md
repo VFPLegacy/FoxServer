@@ -71,12 +71,21 @@ Do you need to encode and return files in your JSON responses? FoxServer offers 
 
 4. Structured and Consistent Responses:
 
-FoxServer sets a standard for JSON responses, ensuring that each response has the same predefined structure. {"status": "success"|"error", "data": null, "message": "a message"} simplifies response interpretation and improves consistency across your project.
+FoxServer sets a standard for JSON responses, ensuring that each response has the same predefined structure. 
+```javascript
+  {
+    "status": "success"|"error", 
+    "data": null, 
+    "message": "a custom message for the HTTP client"}
+``` 
+simplifies response interpretation and improves consistency across your project.
 
 # Practical
+
 FoxServer stands out for its practicality, offering developers a platform that simplifies and speeds up the process of creating web applications in Visual FoxPro (VFP).
 
 ## Web Site
+
 Developing web applications has never been easier than with FoxServer. This powerful web server goes beyond being just a RESTful API facilitator, as it presents itself as a complete ally for the creation of web pages and interactive applications. Here we explain why developing web applications with FoxServer is so simple:
 
 1. Preconfigured "Public" Folder:
@@ -153,8 +162,8 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRA MANERA, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRAS NEGOCIOS EN EL SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzOTA2NTM3LDIwODg0MjA0NjAsLTEzMz
-QzMjQ1MjEsNzc3NjM1OTQyLDMwODMyNDA5NywtMTI3ODMzNTAz
-MCwtMjExODEyMzU1Niw2Mjg2MjA0NjcsNzM0MTYzOTIzLC0xOD
-UwNjAyODgzLC03OTAxMDY1MjRdfQ==
+eyJoaXN0b3J5IjpbLTUwNDQ0ODc2MiwyMDg4NDIwNDYwLC0xMz
+M0MzI0NTIxLDc3NzYzNTk0MiwzMDgzMjQwOTcsLTEyNzgzMzUw
+MzAsLTIxMTgxMjM1NTYsNjI4NjIwNDY3LDczNDE2MzkyMywtMT
+g1MDYwMjg4MywtNzkwMTA2NTI0XX0=
 -->
