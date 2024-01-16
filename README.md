@@ -30,11 +30,11 @@
   * [Simple](#simple)
   * [Dynamic](#dynamic)
   * [Builtins](#builtins)
-  * [Examples](#examples)
-  * [Support And Donations](#support-and-donations)
-  * [License](#license)
-  * [Contributions](#contributions)
-  * [Special Thanks](#special-thanks)
+- [Examples](#examples)
+- [Support And Donations](#support-and-donations)
+- [License](#license)
+- [Contributions](#contributions)
+- [Special Thanks](#special-thanks)
 
 # Welcome to FoxServer
 FoxServer is a web server implementation developed in **C#** that acts as a container to execute logical code written in **Visual FoxPro (VFP)** through a *Wrapper*. The main idea behind this project is to allow developers to write their service logic using VFP and expose this logic as *web service* through a modern web server.
@@ -168,9 +168,9 @@ This project uses the following third-party libraries, and I want to express my 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE. OR OTHER DEALINGS IN THE SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1NzY1OTk0LDIxMDYyNjk1NjAsLTEwMT
-Y5MzY4OTUsMjA4ODQyMDQ2MCwtMTMzNDMyNDUyMSw3Nzc2MzU5
-NDIsMzA4MzI0MDk3LC0xMjc4MzM1MDMwLC0yMTE4MTIzNTU2LD
-YyODYyMDQ2Nyw3MzQxNjM5MjMsLTE4NTA2MDI4ODMsLTc5MDEw
-NjUyNF19
+eyJoaXN0b3J5IjpbLTYwOTE5NjQzNSwyMTA2MjY5NTYwLC0xMD
+E2OTM2ODk1LDIwODg0MjA0NjAsLTEzMzQzMjQ1MjEsNzc3NjM1
+OTQyLDMwODMyNDA5NywtMTI3ODMzNTAzMCwtMjExODEyMzU1Ni
+w2Mjg2MjA0NjcsNzM0MTYzOTIzLC0xODUwNjAyODgzLC03OTAx
+MDY1MjRdfQ==
 -->
