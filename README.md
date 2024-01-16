@@ -135,6 +135,9 @@ FoxServer was conceived with a clear purpose in mind: to empower Visual FoxPro (
 ## Simple
 Simplicity is the key to FoxServer. From integration with VFP's native development environment to preconfigured folder structure and "batteries included" features, FoxServer makes RESTful API and web application development accessible and hassle-free. Its intuitive approach allows developers to focus on building functionality and business logic instead of dealing with tedious configuration. With FoxServer, simplicity means faster, more efficient development.
 
+## Uses Macros For Redability
+FoxServer makes development even easier by incorporating macros that improve code readability. These predefined macros simplify writing and make the code more understandable for developers, allowing them to focus on application logic rather than syntactic details.
+
 # Licencia
 
 Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
@@ -168,7 +171,7 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRA MANERA, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRAS NEGOCIOS EN EL SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDgzMDk5NCwtMTAxNjkzNjg5NSwyMD
+eyJoaXN0b3J5IjpbMjEwNjI2OTU2MCwtMTAxNjkzNjg5NSwyMD
 g4NDIwNDYwLC0xMzM0MzI0NTIxLDc3NzYzNTk0MiwzMDgzMjQw
 OTcsLTEyNzgzMzUwMzAsLTIxMTgxMjM1NTYsNjI4NjIwNDY3LD
 czNDE2MzkyMywtMTg1MDYwMjg4MywtNzkwMTA2NTI0XX0=
