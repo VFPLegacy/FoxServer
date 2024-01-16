@@ -139,22 +139,14 @@ Simplicity is the key to FoxServer. From integration with VFP's native developme
 ## Uses Macros For Redability
 FoxServer makes development even easier by incorporating macros that improve code readability. These predefined macros simplify writing and make the code more understandable for developers, allowing them to focus on application logic rather than syntactic details.
 
-# Licencia
+# License
 
-Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+This project is distributed under the MIT License. See the LICENSE file for more details.
 
-## Uso con MagicMenu
 
-Puedes utilizar la herramienta MagicMenu para simplificar el proceso de creación de servicios web utilizando esta plantilla. MagicMenu automatiza la descarga y uso de estas mismas plantillas, permitiéndote concentrarte en el desarrollo de tu aplicación.
-  
-Para obtener más información sobre MagicMenu, visita el repositorio: [MagicMenu en GitHub](https://github.com/VFPLegacy/MagicMenu).
+## Contributions
 
-## Documentación
-[ControllerHelper](ControllerHelper.md)
-
-## Contribuciones
-
-¡Siéntete libre de contribuir y mejorar esta plantilla! Si tienes sugerencias, mejoras o correcciones, ¡no dudes en hacer un pull request!
+Feel free to contribute and improve this template! If you have suggestions, improvements or corrections, don't hesitate to make a pull request!
 
 ## Agradecimientos
 
@@ -172,9 +164,9 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRA MANERA, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRAS NEGOCIOS EN EL SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2Mjk2NDg2LDIxMDYyNjk1NjAsLTEwMT
-Y5MzY4OTUsMjA4ODQyMDQ2MCwtMTMzNDMyNDUyMSw3Nzc2MzU5
-NDIsMzA4MzI0MDk3LC0xMjc4MzM1MDMwLC0yMTE4MTIzNTU2LD
-YyODYyMDQ2Nyw3MzQxNjM5MjMsLTE4NTA2MDI4ODMsLTc5MDEw
-NjUyNF19
+eyJoaXN0b3J5IjpbMTUyMzcwNDIyMywyMTA2MjY5NTYwLC0xMD
+E2OTM2ODk1LDIwODg0MjA0NjAsLTEzMzQzMjQ1MjEsNzc3NjM1
+OTQyLDMwODMyNDA5NywtMTI3ODMzNTAzMCwtMjExODEyMzU1Ni
+w2Mjg2MjA0NjcsNzM0MTYzOTIzLC0xODUwNjAyODgzLC03OTAx
+MDY1MjRdfQ==
 -->
