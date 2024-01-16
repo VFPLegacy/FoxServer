@@ -141,6 +141,19 @@ Simplicity is the key to FoxServer. From integration with VFP's native developme
 ## Uses Macros For Redability
 FoxServer makes development even easier by incorporating macros that improve code readability. These predefined macros simplify writing and make the code more understandable for developers, allowing them to focus on application logic rather than syntactic details.
 
+# Implementation
+## MagicMenu
+## Multi-threaded
+## Fast Enough For Many Applications
+
+# Features
+## Syntax
+## Powerful Implementation
+## Simple
+## Dynamic
+## Builtins
+## Examples
+
 # Support And Donations
 If you find MagicMenu useful for your work and would like to support its development and maintenance, please consider making a donation through [PayPal](https://www.paypal.com/donate/?hosted_button_id=LXQYXFP77AD2G) or becoming a patron on [Patreon](www.patreon.com/IrwinRodriguez).
 
@@ -168,9 +181,9 @@ This project uses the following third-party libraries, and I want to express my 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE. OR OTHER DEALINGS IN THE SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTE5NjQzNSwyMTA2MjY5NTYwLC0xMD
-E2OTM2ODk1LDIwODg0MjA0NjAsLTEzMzQzMjQ1MjEsNzc3NjM1
-OTQyLDMwODMyNDA5NywtMTI3ODMzNTAzMCwtMjExODEyMzU1Ni
-w2Mjg2MjA0NjcsNzM0MTYzOTIzLC0xODUwNjAyODgzLC03OTAx
-MDY1MjRdfQ==
+eyJoaXN0b3J5IjpbMTkzNzc5ODczMywtNjA5MTk2NDM1LDIxMD
+YyNjk1NjAsLTEwMTY5MzY4OTUsMjA4ODQyMDQ2MCwtMTMzNDMy
+NDUyMSw3Nzc2MzU5NDIsMzA4MzI0MDk3LC0xMjc4MzM1MDMwLC
+0yMTE4MTIzNTU2LDYyODYyMDQ2Nyw3MzQxNjM5MjMsLTE4NTA2
+MDI4ODMsLTc5MDEwNjUyNF19
 -->
