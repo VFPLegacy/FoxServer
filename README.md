@@ -3,9 +3,10 @@
 
 ## Simple and flexible library for building VFP based Web Applications
 
-||*Resources*|
+|Resource|Location|Description|
 |---|---|---|
-|Runtimes|[See Manifest](https://github.com/VFPLegacy/MagicMenu/raw/master/native/fox-server.manifest)|MagicMenu|
+|Runtimes|[See Manifest](https://github.com/VFPLegacy/MagicMenu/raw/master/native/fox-server.manifest)|
+|
 
 # Contents
 
@@ -48,6 +49,6 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRA MANERA, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRAS NEGOCIOS EN EL SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzg1MTI3NjUsLTE4NTA2MDI4ODMsLT
-c5MDEwNjUyNF19
+eyJoaXN0b3J5IjpbLTYyNDE3NzE3NywtMTg1MDYwMjg4MywtNz
+kwMTA2NTI0XX0=
 -->
