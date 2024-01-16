@@ -129,6 +129,11 @@ In short, FoxServer simplifies every aspect of RESTful API development, from sec
 
 # Why FoxServer
 
+Designed for a clear goal:
+FoxServer was conceived with a clear purpose in mind: to empower Visual FoxPro (VFP) developers in the world of web development and creating RESTful API services. Its robust architecture and integrated features align with the vision of providing a complete and versatile solution for those looking to take their VFP skills to the next level.
+
+## Simple
+Simplicity is the key to FoxServer. From integration with VFP's native development environment to preconfigured folder structure and "batteries included" features, FoxServer makes RESTful API and web application development accessible and hassle-free. Its intuitive approach allows developers to focus on building functionality and business logic instead of dealing with tedious configuration. With FoxServer, simplicity means faster, more efficient development.
 
 # Licencia
 
@@ -163,8 +168,8 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRA MANERA, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRAS NEGOCIOS EN EL SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY5MzY4OTUsMjA4ODQyMDQ2MCwtMT
-MzNDMyNDUyMSw3Nzc2MzU5NDIsMzA4MzI0MDk3LC0xMjc4MzM1
-MDMwLC0yMTE4MTIzNTU2LDYyODYyMDQ2Nyw3MzQxNjM5MjMsLT
-E4NTA2MDI4ODMsLTc5MDEwNjUyNF19
+eyJoaXN0b3J5IjpbLTE3OTEwNDQ0NjYsLTEwMTY5MzY4OTUsMj
+A4ODQyMDQ2MCwtMTMzNDMyNDUyMSw3Nzc2MzU5NDIsMzA4MzI0
+MDk3LC0xMjc4MzM1MDMwLC0yMTE4MTIzNTU2LDYyODYyMDQ2Ny
+w3MzQxNjM5MjMsLTE4NTA2MDI4ODMsLTc5MDEwNjUyNF19
 -->
