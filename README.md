@@ -5,6 +5,8 @@ Este es un repositorio que sirve como plantilla para descargas automáticas desd
 ## Acerca de FoxServer
 FoxServer es una implementación de un servidor web desarrollado en C# que actúa como un contenedor para ejecutar código lógico escrito en Visual FoxPro (VFP) a través de un Wrapper. La idea principal detrás de este proyecto es permitir a los desarrolladores escribir la lógica de su servicio utilizando VFP y exponer esta lógica como servicios web a través de un servidor web moderno.
 
+prueba
+
 ## Licencia
 
 Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
@@ -37,3 +39,6 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 **SIN GARANTÍA**
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRA MANERA, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRAS NEGOCIOS EN EL SOFTWARE.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc5MDEwNjUyNF19
+-->
