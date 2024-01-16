@@ -32,7 +32,7 @@
   * [Builtins](#builtins)
   * [Examples](#examples)
   * [Support And Donations](#support-and-donations)
-  * [License](#licence)
+  * [License](#license)
   * [Contributions](#contributions)
   * [Special Thanks](#special-thanks)
 
@@ -141,6 +141,7 @@ Simplicity is the key to FoxServer. From integration with VFP's native developme
 ## Uses Macros For Redability
 FoxServer makes development even easier by incorporating macros that improve code readability. These predefined macros simplify writing and make the code more understandable for developers, allowing them to focus on application logic rather than syntactic details.
 
+# Support And 
 # License
 
 This project is distributed under the MIT License. See the LICENSE file for more details.
@@ -165,9 +166,9 @@ This project uses the following third-party libraries, and I want to express my 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE. OR OTHER DEALINGS IN THE SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI0MjA3NTgsMjEwNjI2OTU2MCwtMT
-AxNjkzNjg5NSwyMDg4NDIwNDYwLC0xMzM0MzI0NTIxLDc3NzYz
-NTk0MiwzMDgzMjQwOTcsLTEyNzgzMzUwMzAsLTIxMTgxMjM1NT
-YsNjI4NjIwNDY3LDczNDE2MzkyMywtMTg1MDYwMjg4MywtNzkw
-MTA2NTI0XX0=
+eyJoaXN0b3J5IjpbLTM2MTIxNDA0NSwyMTA2MjY5NTYwLC0xMD
+E2OTM2ODk1LDIwODg0MjA0NjAsLTEzMzQzMjQ1MjEsNzc3NjM1
+OTQyLDMwODMyNDA5NywtMTI3ODMzNTAzMCwtMjExODEyMzU1Ni
+w2Mjg2MjA0NjcsNzM0MTYzOTIzLC0xODUwNjAyODgzLC03OTAx
+MDY1MjRdfQ==
 -->
