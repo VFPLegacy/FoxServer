@@ -10,30 +10,30 @@
 
 # Contents
 
--[Welcome to FoxServer](#welcome-to-foxserver)
--[Get Excited!](#get-excited)
--[Batteries Included](#batteries-included)
--[Practical](#practical)
-  *[Wep Application](#web-application)
-  *[Web Site](#web-site)
-  *[API RESTful](#api-rest-ful)
--[Why FoxServer?](#why-foxserver)
-  *[Designed For a Clear Goal](#designed-for-a-clear-goal)
-  *[Simple](#simple)
-  *[Uses Macros For Redability](#uses-macros-for-redability)
--[Implementation](#implementation)
-  *[MagicMenu](#magicmenu)
-  *[Multi-threaded](#multi-threaded)
-  *[Fast Enough For Many Applications](#fast-enough-for-many-applications)
--[Features](#features)
-  *[Syntax](#syntax)
-  *[Powerful Implementation](#powerful-implementation)
-  *[Simple](#simple)
-  *[Dynamic](#dynamic)
-  *[Builtins](#builtins)
-  *[Examples](#examples)
-  *[Support And Donations](#support-and-donations)
-  *[License](#licence)
+- [Welcome to FoxServer](#welcome-to-foxserver)
+- [Get Excited!](#get-excited)
+- [Batteries Included](#batteries-included)
+- [Practical](#practical)
+  * [Wep Application](#web-application)
+  * [Web Site](#web-site)
+  * [API RESTful](#api-rest-ful)
+- [Why FoxServer?](#why-foxserver)
+  * [Designed For a Clear Goal](#designed-for-a-clear-goal)
+  * [Simple](#simple)
+  * [Uses Macros For Redability](#uses-macros-for-redability)
+- [Implementation](#implementation)
+  * [MagicMenu](#magicmenu)
+  * [Multi-threaded](#multi-threaded)
+  * [Fast Enough For Many Applications](#fast-enough-for-many-applications)
+- [Features](#features)
+  * [Syntax](#syntax)
+  * [Powerful Implementation](#powerful-implementation)
+  * [Simple](#simple)
+  * [Dynamic](#dynamic)
+  * [Builtins](#builtins)
+  * [Examples](#examples)
+  * [Support And Donations](#support-and-donations)
+  * [License](#licence)
 
 ## Acerca de FoxServer
 FoxServer es una implementación de un servidor web desarrollado en C# que actúa como un contenedor para ejecutar código lógico escrito en Visual FoxPro (VFP) a través de un Wrapper. La idea principal detrás de este proyecto es permitir a los desarrolladores escribir la lógica de su servicio utilizando VFP y exponer esta lógica como servicios web a través de un servidor web moderno.
@@ -73,6 +73,6 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRA MANERA, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRAS NEGOCIOS EN EL SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5ODAxMDk5LDczNDE2MzkyMywtMTg1MD
+eyJoaXN0b3J5IjpbNjI4NjIwNDY3LDczNDE2MzkyMywtMTg1MD
 YwMjg4MywtNzkwMTA2NTI0XX0=
 -->
