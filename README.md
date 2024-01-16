@@ -1,13 +1,86 @@
+![FoxServer](https://github.com/VFPLegacy/FoxServer/raw/main/images/foxserver-logo.png)
 # FoxServer
 
-Este es un repositorio que sirve como plantilla para descargas automáticas desde MagicMenu
+## Simple and flexible library for building VFP based Web Applications
 
-## Acerca de FoxServer
-FoxServer es una implementación de un servidor web desarrollado en C# que actúa como un contenedor para ejecutar código lógico escrito en Visual FoxPro (VFP) a través de un Wrapper. La idea principal detrás de este proyecto es permitir a los desarrolladores escribir la lógica de su servicio utilizando VFP y exponer esta lógica como servicios web a través de un servidor web moderno.
+|Resource|Location|Description|
+|---|---|---|
+|Runtimes|[See Manifest](https://github.com/VFPLegacy/MagicMenu/raw/master/native/fox-server.manifest)|All runtimes needed by FoxServer
+|MagicMenu|[Download](https://github.com/VFPLegacy/MagicMenu/raw/master/magicmenu.app)|The Project Manager
 
-prueba
+# Contents
 
-## Licencia
+- [Welcome to FoxServer](#welcome-to-foxserver)
+- [Get Excited!](#get-excited)
+- [Batteries Included](#batteries-included)
+- [Practical](#practical)
+  * [Web Site](#web-site)
+  * [API RESTful](#api-rest-ful)
+- [Why FoxServer?](#why-foxserver)
+  * [Designed For a Clear Goal](#designed-for-a-clear-goal)
+  * [Simple](#simple)
+  * [Uses Macros For Redability](#uses-macros-for-redability)
+- [Implementation](#implementation)
+  * [MagicMenu](#magicmenu)
+  * [Multi-threaded](#multi-threaded)
+  * [Fast Enough For Many Applications](#fast-enough-for-many-applications)
+- [Features](#features)
+  * [Syntax](#syntax)
+  * [Powerful Implementation](#powerful-implementation)
+  * [Simple](#simple)
+  * [Dynamic](#dynamic)
+  * [Builtins](#builtins)
+  * [Examples](#examples)
+  * [Support And Donations](#support-and-donations)
+  * [License](#licence)
+
+# Welcome to FoxServer
+FoxServer is a web server implementation developed in **C#** that acts as a container to execute logical code written in **Visual FoxPro (VFP)** through a *Wrapper*. The main idea behind this project is to allow developers to write their service logic using VFP and expose this logic as *web service* through a modern web server.
+
+# Get Excited
+
+Each FoxServer project comes with a set of macros that simplify writing code and improve readability, this way the code becomes more idiomatic since the macros abstract all the syntax of object-oriented programming.
+
+Visual FoxPro (VFP) programmers have long relied on the strength and versatility of this programming language. Now, with FoxServer, there is no need to abandon that tradition to embrace modernity. Here's a compelling reason to choose FoxServer over other, more modern technologies:
+
+**Preserve your Investment in Knowledge:**
+
+FoxServer allows you to create web applications without giving up the richness and familiarity of Visual FoxPro. For programmers who have invested time and effort honing their VFP skills, FoxServer is the solution that extends the capabilities of your favorite language without forcing you to switch to a completely new environment.
+
+With FoxServer, you can capitalize on the experience you already have in VFP and apply it directly to web development. There's no need to learn a new set of tools or radically change your workflow. Stay consistent in your skills, making the most of what you already know.
+
+Instead of starting from scratch with newer technologies, FoxServer offers you a smooth transition, allowing you to adapt to the demands of web development without sacrificing the foundation you've built over the years in Visual FoxPro.
+
+In short, FoxServer gives you the opportunity to move towards web development without abandoning the richness and convenience that VFP offers. Preserve your investment in knowledge and get the most out of your experience with a solution that respects and extends the tradition of Visual FoxPro. FoxServer: Modernity without losing your roots!
+
+# Batteries Included
+
+FoxServer is not just a web server, it's a complete toolbox for VFP developers! In this section, you will discover a set of functions and utilities that significantly facilitate the development of web applications without sacrificing robustness or simplicity.
+
+  1. Simplified JWT Token Generation and Validation:
+
+Forget the complexities of implementing security in your web applications. FoxServer includes built-in functions for JSON Web Token (JWT) token generation and validation. Now, you can secure your communications simply and efficiently, without worrying about the complexity of implementation.
+
+2. Intelligent Parsing of JSON Requests:
+
+Requests that carry JSON information in their body are automatically parsed by FoxServer.dll. This means that your data arrives at the backend (<project.dll>) as objects ready to be used. No more manual parsing processes, FoxServer takes care of the integration effortlessly.
+
+3. Advanced File Manipulation:
+
+Do you need to encode and return files in your JSON responses? FoxServer offers you functions in the backend to make this task hassle-free. File manipulation is easy, direct and fully integrated into your workflow.
+
+4. Structured and Consistent Responses:
+
+FoxServer sets a standard for JSON responses, ensuring that each response has the same predefined structure. {"status": "success"|"error", "data": null, "message": "a message"} simplifies response interpretation and improves consistency across your project.
+
+# Practical
+FoxServer stands out for its practicality, offering developers a platform that simplifies and speeds up the process of creating web applications in Visual FoxPro (VFP).
+
+## Web Site
+
+## API RESTful
+
+# Licencia
 
 Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
@@ -40,5 +113,8 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRA MANERA, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRAS NEGOCIOS EN EL SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDEwNjUyNF19
+eyJoaXN0b3J5IjpbLTEzMzQzMjQ1MjEsNzc3NjM1OTQyLDMwOD
+MyNDA5NywtMTI3ODMzNTAzMCwtMjExODEyMzU1Niw2Mjg2MjA0
+NjcsNzM0MTYzOTIzLC0xODUwNjAyODgzLC03OTAxMDY1MjRdfQ
+==
 -->
