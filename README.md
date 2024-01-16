@@ -54,7 +54,25 @@ Instead of starting from scratch with newer technologies, FoxServer offers you a
 
 In short, FoxServer gives you the opportunity to move towards web development without abandoning the richness and convenience that VFP offers. Preserve your investment in knowledge and get the most out of your experience with a solution that respects and extends the tradition of Visual FoxPro. FoxServer: Modernity without losing your roots!
 
+# Batteries Included
 
+FoxServer is not just a web server, it's a complete toolbox for VFP developers! In this section, you will discover a set of functions and utilities that significantly facilitate the development of web applications without sacrificing robustness or simplicity.
+
+  1. Simplified JWT Token Generation and Validation:
+
+Forget the complexities of implementing security in your web applications. FoxServer includes built-in functions for JSON Web Token (JWT) token generation and validation. Now, you can secure your communications simply and efficiently, without worrying about the complexity of implementation.
+
+2. Intelligent Parsing of JSON Requests:
+
+Requests that carry JSON information in their body are automatically parsed by FoxServer.dll. This means that your data arrives at the backend (<project.dll>) as objects ready to be used. No more manual parsing processes, FoxServer takes care of the integration effortlessly.
+
+3. Advanced File Manipulation:
+
+Do you need to encode and return files in your JSON responses? FoxServer offers you functions in the backend to make this task hassle-free. File manipulation is easy, direct and fully integrated into your workflow.
+
+4. Structured and Consistent Responses:
+
+FoxServer sets a standard for JSON responses, ensuring that each response has the same predefined structure. {"status": "success"|"error", "data": null, "message": "a message"} simplifies response interpretation and improves consistency across your project.
 
 ## Licencia
 
@@ -89,7 +107,7 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRA MANERA, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRAS NEGOCIOS EN EL SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4MzI0MDk3LC0xMjc4MzM1MDMwLC0yMT
-E4MTIzNTU2LDYyODYyMDQ2Nyw3MzQxNjM5MjMsLTE4NTA2MDI4
-ODMsLTc5MDEwNjUyNF19
+eyJoaXN0b3J5IjpbMTMwMTIyNTU5NiwzMDgzMjQwOTcsLTEyNz
+gzMzUwMzAsLTIxMTgxMjM1NTYsNjI4NjIwNDY3LDczNDE2Mzky
+MywtMTg1MDYwMjg4MywtNzkwMTA2NTI0XX0=
 -->
