@@ -196,7 +196,7 @@ FoxServer offers a dynamic nature that adapts to the changing needs of web and s
 FoxServer comes equipped with a set of built-in features, or "batteries included," that simplify common tasks. From generating and validating JWT tokens to manipulating files and structuring JSON responses, FoxServer provides essential tools right out of the box, eliminating the need to look for additional solutions.
 
 ## Examples
-
+FoxServer makes it easy to understand and apply its features through clear and concise examples. In the [examples folder](https://github.com/VFPLegacy/FoxServer/tree/main/examples), you'll find practical examples that illustrate feature usage, project structure, and best practices. These examples serve as a guide for developers, accelerating the learning process and project implementation.
 
 # Support And Donations
 If you find MagicMenu useful for your work and would like to support its development and maintenance, please consider making a donation through [PayPal](https://www.paypal.com/donate/?hosted_button_id=LXQYXFP77AD2G) or becoming a patron on [Patreon](www.patreon.com/IrwinRodriguez).
@@ -225,9 +225,9 @@ This project uses the following third-party libraries, and I want to express my 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE. OR OTHER DEALINGS IN THE SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTAwNjIzNzcsMTkzNzc5ODczMywtNj
-A5MTk2NDM1LDIxMDYyNjk1NjAsLTEwMTY5MzY4OTUsMjA4ODQy
-MDQ2MCwtMTMzNDMyNDUyMSw3Nzc2MzU5NDIsMzA4MzI0MDk3LC
-0xMjc4MzM1MDMwLC0yMTE4MTIzNTU2LDYyODYyMDQ2Nyw3MzQx
-NjM5MjMsLTE4NTA2MDI4ODMsLTc5MDEwNjUyNF19
+eyJoaXN0b3J5IjpbLTQ1OTk1OTkzOCwxOTM3Nzk4NzMzLC02MD
+kxOTY0MzUsMjEwNjI2OTU2MCwtMTAxNjkzNjg5NSwyMDg4NDIw
+NDYwLC0xMzM0MzI0NTIxLDc3NzYzNTk0MiwzMDgzMjQwOTcsLT
+EyNzgzMzUwMzAsLTIxMTgxMjM1NTYsNjI4NjIwNDY3LDczNDE2
+MzkyMywtMTg1MDYwMjg4MywtNzkwMTA2NTI0XX0=
 -->
