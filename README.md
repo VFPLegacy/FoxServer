@@ -35,10 +35,9 @@
   * [Support And Donations](#support-and-donations)
   * [License](#licence)
 
-## Acerca de FoxServer
-FoxServer es una implementación de un servidor web desarrollado en C# que actúa como un contenedor para ejecutar código lógico escrito en Visual FoxPro (VFP) a través de un Wrapper. La idea principal detrás de este proyecto es permitir a los desarrolladores escribir la lógica de su servicio utilizando VFP y exponer esta lógica como servicios web a través de un servidor web moderno.
+# Welcome to FoxServer
+FoxServer is a web server implementation developed in C# that acts as a container to execute logical code written in Visual FoxPro (VFP) through a Wrapper. The main idea behind this project is to allow developers to write their service logic using VFP and expose this logic as web services through a modern web server.
 
-prueba
 
 ## Licencia
 
@@ -73,6 +72,6 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRA MANERA, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRAS NEGOCIOS EN EL SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4NjIwNDY3LDczNDE2MzkyMywtMTg1MD
-YwMjg4MywtNzkwMTA2NTI0XX0=
+eyJoaXN0b3J5IjpbLTM0MTE2MDAwNiw2Mjg2MjA0NjcsNzM0MT
+YzOTIzLC0xODUwNjAyODgzLC03OTAxMDY1MjRdfQ==
 -->
