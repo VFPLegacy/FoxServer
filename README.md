@@ -153,19 +153,19 @@ Feel free to contribute and improve this template! If you have suggestions, impr
 
 This project uses the following third-party libraries, and I want to express my gratitude to their authors and maintainers:
 
-- [wwDotNetBridge](https://github.com/RickStrahl/wwDotnetBridge): Una librería esencial para la interoperabilidad entre Visual FoxPro y .NET.
-- [WinSW](https://github.com/winsw/winsw): WinSW es una herramienta que permite ejecutar cualquier aplicación como un servicio de Windows.
-- [MagicMenu](https://github.com/VFPLegacy/MagicMenu): Es una herramienta nativa para VFP que permite crear proyectos especiales como Aplicación de Consola, Servicio de Windows, Aplicaciones Web, entre otros.
-- [JSONFox](https://github.com/Irwin1985/JSONFox): JSONFox es una herramienta para VFP que permite codificar y decodificar objetos JSON entre otras funciones.
-- [FoxyPreviewer](https://www.foxypreviewer.com/): Imprimir reportes FRX a PDF.
+- [wwDotNetBridge](https://github.com/RickStrahl/wwDotnetBridge): An essential library for interoperability between Visual FoxPro and .NET.
+- [WinSW](https://github.com/winsw/winsw): WinSW is a tool that allows you to run any application as a Windows service.
+- [MagicMenu](https://github.com/VFPLegacy/MagicMenu): It is a native tool for VFP that allows you to create special projects such as Console Application, Windows Service, Web Applications, among others.
+- [JSONFox](https://github.com/Irwin1985/JSONFox): JSONFox is a tool for VFP that allows you to encode and decode JSON objects among other functions.
+- [FoxyPreviewer](https://www.foxypreviewer.com/): Print FRX reports to PDF.
 
 ---
 
-**SIN GARANTÍA**
+**NO WARRANTY**
 
-EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRA MANERA, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRAS NEGOCIOS EN EL SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE. OR OTHER DEALINGS IN THE SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxMTkxMzk1LDIxMDYyNjk1NjAsLTEwMT
+eyJoaXN0b3J5IjpbNjYwMzcwNTUwLDIxMDYyNjk1NjAsLTEwMT
 Y5MzY4OTUsMjA4ODQyMDQ2MCwtMTMzNDMyNDUyMSw3Nzc2MzU5
 NDIsMzA4MzI0MDk3LC0xMjc4MzM1MDMwLC0yMTE4MTIzNTU2LD
 YyODYyMDQ2Nyw3MzQxNjM5MjMsLTE4NTA2MDI4ODMsLTc5MDEw
