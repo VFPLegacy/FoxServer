@@ -54,6 +54,8 @@ Instead of starting from scratch with newer technologies, FoxServer offers you a
 
 In short, FoxServer gives you the opportunity to move towards web development without abandoning the richness and convenience that VFP offers. Preserve your investment in knowledge and get the most out of your experience with a solution that respects and extends the tradition of Visual FoxPro. FoxServer: Modernity without losing your roots!
 
+
+
 ## Licencia
 
 Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
@@ -87,7 +89,7 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRA MANERA, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRAS NEGOCIOS EN EL SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDI2NTcyNDMsLTEyNzgzMzUwMzAsLT
-IxMTgxMjM1NTYsNjI4NjIwNDY3LDczNDE2MzkyMywtMTg1MDYw
-Mjg4MywtNzkwMTA2NTI0XX0=
+eyJoaXN0b3J5IjpbMzA4MzI0MDk3LC0xMjc4MzM1MDMwLC0yMT
+E4MTIzNTU2LDYyODYyMDQ2Nyw3MzQxNjM5MjMsLTE4NTA2MDI4
+ODMsLTc5MDEwNjUyNF19
 -->
