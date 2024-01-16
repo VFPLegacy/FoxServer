@@ -14,7 +14,6 @@
 - [Get Excited!](#get-excited)
 - [Batteries Included](#batteries-included)
 - [Practical](#practical)
-  * [Wep Application](#web-application)
   * [Web Site](#web-site)
   * [API RESTful](#api-rest-ful)
 - [Why FoxServer?](#why-foxserver)
@@ -77,8 +76,6 @@ FoxServer sets a standard for JSON responses, ensuring that each response has th
 # Practical
 FoxServer stands out for its practicality, offering developers a platform that simplifies and speeds up the process of creating web applications in Visual FoxPro (VFP).
 
-## Wep Application
-
 ## Web Site
 
 ## API RESTful
@@ -116,7 +113,8 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRA MANERA, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRAS NEGOCIOS EN EL SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3NjM1OTQyLDMwODMyNDA5NywtMTI3OD
-MzNTAzMCwtMjExODEyMzU1Niw2Mjg2MjA0NjcsNzM0MTYzOTIz
-LC0xODUwNjAyODgzLC03OTAxMDY1MjRdfQ==
+eyJoaXN0b3J5IjpbLTEzMzQzMjQ1MjEsNzc3NjM1OTQyLDMwOD
+MyNDA5NywtMTI3ODMzNTAzMCwtMjExODEyMzU1Niw2Mjg2MjA0
+NjcsNzM0MTYzOTIzLC0xODUwNjAyODgzLC03OTAxMDY1MjRdfQ
+==
 -->
