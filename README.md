@@ -81,11 +81,9 @@ FoxServer sets a standard for JSON responses, ensuring that each response has th
 simplifies response interpretation and improves consistency across your project.
 
 # Practical
-
 FoxServer stands out for its practicality, offering developers a platform that simplifies and speeds up the process of creating web applications in Visual FoxPro (VFP).
 
 ## Web Site
-
 Developing web applications has never been easier than with FoxServer. This powerful web server goes beyond being just a RESTful API facilitator, as it presents itself as a complete ally for the creation of web pages and interactive applications. Here we explain why developing web applications with FoxServer is so simple:
 
 1. Preconfigured "Public" Folder:
@@ -105,8 +103,8 @@ FoxServer offers unparalleled flexibility. You can use it to develop both intera
 
 With the preconfigured "public" folder structure, FoxServer not only simplifies but transforms the web application development process. From initial design to final deployment, FoxServer gives you the tools you need to turn your ideas into functional web experiences. Discover the ease of development with FoxServer and take your web projects to the next level!
 
-## API RESTful
 
+## API RESTful
 FoxServer is not only your ally for web development, but it stands out as an exceptional platform for creating RESTful APIs. With a host of features designed to make the API development process intuitive and efficient, FoxServer is positioned as the ideal choice for those looking to power the creation of web services. Here's why developing RESTful APIs with FoxServer is an experience like no other:
 
 1. Built-in Functions for JWT Tokens:
@@ -128,6 +126,9 @@ Just like in web development, FoxServer makes it easy to integrate and deploy yo
 FoxServer gives you the flexibility to develop both interactive web applications and RESTful API services from the same development environment. You can create mixed projects that integrate both areas of development according to your specific needs.
 
 In short, FoxServer simplifies every aspect of RESTful API development, from security to response structure to file manipulation. Discover how these features work together to give you a hassle-free web services development experience with powerful results. Develop RESTful APIs with FoxServer and experience a new dimension of efficiency and power!
+
+# Why FoxServer
+
 
 # Licencia
 
@@ -162,8 +163,8 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRA MANERA, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRAS NEGOCIOS EN EL SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDQ0ODc2MiwyMDg4NDIwNDYwLC0xMz
-M0MzI0NTIxLDc3NzYzNTk0MiwzMDgzMjQwOTcsLTEyNzgzMzUw
-MzAsLTIxMTgxMjM1NTYsNjI4NjIwNDY3LDczNDE2MzkyMywtMT
-g1MDYwMjg4MywtNzkwMTA2NTI0XX0=
+eyJoaXN0b3J5IjpbLTEwMTY5MzY4OTUsMjA4ODQyMDQ2MCwtMT
+MzNDMyNDUyMSw3Nzc2MzU5NDIsMzA4MzI0MDk3LC0xMjc4MzM1
+MDMwLC0yMTE4MTIzNTU2LDYyODYyMDQ2Nyw3MzQxNjM5MjMsLT
+E4NTA2MDI4ODMsLTc5MDEwNjUyNF19
 -->
