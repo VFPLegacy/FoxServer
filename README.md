@@ -77,6 +77,24 @@ FoxServer sets a standard for JSON responses, ensuring that each response has th
 FoxServer stands out for its practicality, offering developers a platform that simplifies and speeds up the process of creating web applications in Visual FoxPro (VFP).
 
 ## Web Site
+Developing web applications has never been easier than with FoxServer. This powerful web server goes beyond being just a RESTful API facilitator, as it presents itself as a complete ally for the creation of web pages and interactive applications. Here we explain why developing web applications with FoxServer is so simple:
+
+1. Preconfigured "Public" Folder:
+Each FoxServer project comes with a folder called "public" that acts as the core of your web application. Inside, you'll find the essential folders: "html" for your HTML files, "scripts" for your JavaScript scripts, and "styles" for your CSS style sheets. This provides an orderly structure ready to receive your web resources.
+
+2. Index.html and 404.html files:
+FoxServer includes the "index.html" and "404.html" files as standard within the "public" folder. The former acts as the home page of your web application, while the latter handles requests to unfound resources. With this initial setup, your app is ready to go without having to worry about creating basic pages.
+
+3. VFP Developer Ready Approach:
+FoxServer integrates seamlessly with the native Visual FoxPro development environment. There's no need to learn new tools or change your usual workflows. The "public" folder becomes a natural fit, allowing you to focus on developing your web application without unnecessary distractions.
+
+4. Quick and Easy Deployment:
+Thanks to the pre-designed "public" folder structure, deploying your web application is quick and easy. Without complicated configurations or tedious adjustments, FoxServer is designed to speed up the development cycle and facilitate the delivery of web projects efficiently.
+
+5. Flexibility for Web Applications and APIs:
+FoxServer offers unparalleled flexibility. You can use it to develop both interactive web applications and RESTful API services, all from the same development environment. This means that you have complete control over the type of web projects you want to create.
+
+With the preconfigured "public" folder structure, FoxServer not only simplifies but transforms the web application development process. From initial design to final deployment, FoxServer gives you the tools you need to turn your ideas into functional web experiences. Discover the ease of development with FoxServer and take your web projects to the next level!
 
 ## API RESTful
 
@@ -113,8 +131,8 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRA MANERA, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRAS NEGOCIOS EN EL SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQzMjQ1MjEsNzc3NjM1OTQyLDMwOD
-MyNDA5NywtMTI3ODMzNTAzMCwtMjExODEyMzU1Niw2Mjg2MjA0
-NjcsNzM0MTYzOTIzLC0xODUwNjAyODgzLC03OTAxMDY1MjRdfQ
-==
+eyJoaXN0b3J5IjpbMjA4ODQyMDQ2MCwtMTMzNDMyNDUyMSw3Nz
+c2MzU5NDIsMzA4MzI0MDk3LC0xMjc4MzM1MDMwLC0yMTE4MTIz
+NTU2LDYyODYyMDQ2Nyw3MzQxNjM5MjMsLTE4NTA2MDI4ODMsLT
+c5MDEwNjUyNF19
 -->
