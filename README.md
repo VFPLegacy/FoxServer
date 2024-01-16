@@ -13,10 +13,12 @@
 -[Welcome to FoxServer](#welcome-to-foxserver)
 -[Get Excited!](#get-excited)
 -[Batteries Included](#batteries-included)
--[P
+-[Practical](#practical)
+  *[Wep Application](#web-application)
+  *[Web Site](#web-site
 -[Why FoxServer?](#why-foxserver)
- *[Designed for a Clear Goal](#designed-for-a-clear-goal)
- *[Simple](#simple)
+  *[Designed for a Clear Goal](#designed-for-a-clear-goal)
+  *[Simple](#simple)
 
 
 ## Acerca de FoxServer
@@ -57,6 +59,6 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRA MANERA, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRAS NEGOCIOS EN EL SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjUxNDk4NzAsNzM0MTYzOTIzLC0xOD
-UwNjAyODgzLC03OTAxMDY1MjRdfQ==
+eyJoaXN0b3J5IjpbLTg5ODc3NTQxMCw3MzQxNjM5MjMsLTE4NT
+A2MDI4ODMsLTc5MDEwNjUyNF19
 -->
