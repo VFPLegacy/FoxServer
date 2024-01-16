@@ -33,6 +33,8 @@
   * [Examples](#examples)
   * [Support And Donations](#support-and-donations)
   * [License](#licence)
+  * [Contributions](#contrubutions)
+  * [Special Thanks](#special-thanks)
 
 # Welcome to FoxServer
 FoxServer is a web server implementation developed in **C#** that acts as a container to execute logical code written in **Visual FoxPro (VFP)** through a *Wrapper*. The main idea behind this project is to allow developers to write their service logic using VFP and expose this logic as *web service* through a modern web server.
@@ -143,14 +145,13 @@ FoxServer makes development even easier by incorporating macros that improve cod
 
 This project is distributed under the MIT License. See the LICENSE file for more details.
 
-
-## Contributions
+# Contributions
 
 Feel free to contribute and improve this template! If you have suggestions, improvements or corrections, don't hesitate to make a pull request!
 
-## Agradecimientos
+# Special Thanks
 
-Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi agradecimiento a los autores y mantenedores de las mismas:
+This project uses the following third-party libraries, and I want to express my gratitude to their authors and maintainers:
 
 - [wwDotNetBridge](https://github.com/RickStrahl/wwDotnetBridge): Una librería esencial para la interoperabilidad entre Visual FoxPro y .NET.
 - [WinSW](https://github.com/winsw/winsw): WinSW es una herramienta que permite ejecutar cualquier aplicación como un servicio de Windows.
@@ -164,9 +165,9 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRA MANERA, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRAS NEGOCIOS EN EL SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzcwNDIyMywyMTA2MjY5NTYwLC0xMD
-E2OTM2ODk1LDIwODg0MjA0NjAsLTEzMzQzMjQ1MjEsNzc3NjM1
-OTQyLDMwODMyNDA5NywtMTI3ODMzNTAzMCwtMjExODEyMzU1Ni
-w2Mjg2MjA0NjcsNzM0MTYzOTIzLC0xODUwNjAyODgzLC03OTAx
-MDY1MjRdfQ==
+eyJoaXN0b3J5IjpbNzMxMTkxMzk1LDIxMDYyNjk1NjAsLTEwMT
+Y5MzY4OTUsMjA4ODQyMDQ2MCwtMTMzNDMyNDUyMSw3Nzc2MzU5
+NDIsMzA4MzI0MDk3LC0xMjc4MzM1MDMwLC0yMTE4MTIzNTU2LD
+YyODYyMDQ2Nyw3MzQxNjM5MjMsLTE4NTA2MDI4ODMsLTc5MDEw
+NjUyNF19
 -->
