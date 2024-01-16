@@ -171,13 +171,15 @@ FoxServer has been designed to deliver outstanding performance while being fast 
 
 1. Code Optimization: Efficient deployment and code optimization allow FoxServer to deliver fast performance, even in environments where speed is crucial.
 
-Intelligent Resource Management: FoxServer uses resources efficiently, ensuring fast performance without compromising system stability.
+2. Intelligent Resource Management: FoxServer uses resources efficiently, ensuring fast performance without compromising system stability.
 
-Scalability: The multi-threaded architecture and the ability to handle concurrent requests make FoxServer scalable, allowing it to be used in a variety of applications, from small to large.
+3. Scalability: The multi-threaded architecture and the ability to handle concurrent requests make FoxServer scalable, allowing it to be used in a variety of applications, from small to large.
 
 FoxServer offers thoughtful implementation, powered by tools like MagicMenu, a multi-threaded approach for fast response, and the speed needed to address a wide range of web applications and RESTful API services. Discover the performance and efficiency of FoxServer in every aspect of your development!
 
 # Features
+FoxServer stands out with a number of features that make web and service development in Visual FoxPro (VFP) a powerful and efficient experience.
+
 ## Syntax
 ## Powerful Implementation
 ## Simple
@@ -212,9 +214,9 @@ This project uses the following third-party libraries, and I want to express my 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE. OR OTHER DEALINGS IN THE SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTUxMzgzNzcsMTkzNzc5ODczMywtNj
-A5MTk2NDM1LDIxMDYyNjk1NjAsLTEwMTY5MzY4OTUsMjA4ODQy
-MDQ2MCwtMTMzNDMyNDUyMSw3Nzc2MzU5NDIsMzA4MzI0MDk3LC
-0xMjc4MzM1MDMwLC0yMTE4MTIzNTU2LDYyODYyMDQ2Nyw3MzQx
-NjM5MjMsLTE4NTA2MDI4ODMsLTc5MDEwNjUyNF19
+eyJoaXN0b3J5IjpbMTg2MTQxOTE3MiwxOTM3Nzk4NzMzLC02MD
+kxOTY0MzUsMjEwNjI2OTU2MCwtMTAxNjkzNjg5NSwyMDg4NDIw
+NDYwLC0xMzM0MzI0NTIxLDc3NzYzNTk0MiwzMDgzMjQwOTcsLT
+EyNzgzMzUwMzAsLTIxMTgxMjM1NTYsNjI4NjIwNDY3LDczNDE2
+MzkyMywtMTg1MDYwMjg4MywtNzkwMTA2NTI0XX0=
 -->
