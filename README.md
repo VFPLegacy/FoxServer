@@ -98,6 +98,28 @@ With the preconfigured "public" folder structure, FoxServer not only simplifies 
 
 ## API RESTful
 
+FoxServer is not only your ally for web development, but it stands out as an exceptional platform for creating RESTful APIs. With a host of features designed to make the API development process intuitive and efficient, FoxServer is positioned as the ideal choice for those looking to power the creation of web services. Here's why developing RESTful APIs with FoxServer is an experience like no other:
+
+1. Built-in Functions for JWT Tokens:
+FoxServer simplifies implementing authentication and security in your RESTful APIs with built-in functions for JSON Web Token (JWT) generation and validation. With this functionality, you can guarantee the security of your services in a simple and effective way.
+
+2. Consistent JSON Response Structure:
+FoxServer sets a standard for JSON responses in your RESTful APIs. With a consistent structure, {"status": "success"|"error", "data": null, "message": "a message"}, the interpretation of responses becomes uniform and easy to manage, improving consistency in all your service.
+
+3. Automatic Serialization of JSON Information:
+The serialization of the JSON information that arrives through the body of the request (POST and PUT) is handled automatically by FoxServer. This means your data is processed and prepared for use in the backend without the need for manual intervention, speeding up development and data manipulation.
+
+4. Functions to Encode Files:
+FoxServer provides you with built-in functions to encode files and make them compatible with JSON responses. This feature is essential when you need to transfer files efficiently through your RESTful APIs.
+
+5. Ease of Integration and Deployment:
+Just like in web development, FoxServer makes it easy to integrate and deploy your RESTful APIs. With a well-defined folder structure, your services will be ready to be deployed quickly and easily.
+
+6. Flexibility for Mixed Projects:
+FoxServer gives you the flexibility to develop both interactive web applications and RESTful API services from the same development environment. You can create mixed projects that integrate both areas of development according to your specific needs.
+
+In short, FoxServer simplifies every aspect of RESTful API development, from security to response structure to file manipulation. Discover how these features work together to give you a hassle-free web services development experience with powerful results. Develop RESTful APIs with FoxServer and experience a new dimension of efficiency and power!
+
 # Licencia
 
 Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
@@ -131,8 +153,8 @@ Este proyecto utiliza las siguiente librerías de terceros, y quiero expresar mi
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRA MANERA, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTRAS NEGOCIOS EN EL SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4ODQyMDQ2MCwtMTMzNDMyNDUyMSw3Nz
-c2MzU5NDIsMzA4MzI0MDk3LC0xMjc4MzM1MDMwLC0yMTE4MTIz
-NTU2LDYyODYyMDQ2Nyw3MzQxNjM5MjMsLTE4NTA2MDI4ODMsLT
-c5MDEwNjUyNF19
+eyJoaXN0b3J5IjpbMjkzOTA2NTM3LDIwODg0MjA0NjAsLTEzMz
+QzMjQ1MjEsNzc3NjM1OTQyLDMwODMyNDA5NywtMTI3ODMzNTAz
+MCwtMjExODEyMzU1Niw2Mjg2MjA0NjcsNzM0MTYzOTIzLC0xOD
+UwNjAyODgzLC03OTAxMDY1MjRdfQ==
 -->
