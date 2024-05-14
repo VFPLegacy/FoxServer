@@ -1,7 +1,7 @@
 ![FoxServer](https://github.com/VFPLegacy/FoxServer/raw/main/images/foxserver-logo.png)
 # FoxServer
 
-[简体中文版](FoxServer/blob/main/Readme_CN.md)
+[简体中文版](Readme_CN.md)
 
 ## Simple and flexible library for building VFP based Web Applications
 
