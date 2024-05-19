@@ -1,14 +1,24 @@
 <!doctype html>
 <html>
 
-<head>
+<head lang="ES">
 	<meta charset="utf-8">
 	<vfp:script>
-		IF GetLang() == 'ES'
-			? "<title>Página no encontrada</title>"
-		ELSE
-			? "<title>Page Not Found</title>"
-		ENDIF
+		Do Case
+			Case GetLang() == 'ES'
+				HTML
+					<title>Página no encontrada</title>
+				END
+		
+			Case GetLang() == 'EN'
+				HTML
+					<title>Page not found</title>
+				END			
+			OtherWise
+				HTML
+					<title>页面没有找到</title>"
+				END
+		EndCase
 	</vfp:script>	
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
@@ -67,21 +77,32 @@
 						<div class="contant_box_404">
 							<h3 class="h2">
 								<vfp:script>
-									IF GetLang() == 'ES'
-										? "Parece que te has perdido"
-									ELSE
-										? "Look like you're lost"
-									ENDIF
+									Do Case
+										Case GetLang() == 'ES'
+											? "Parece que te has perdido"
+
+										Case GetLang() == 'EN'
+											? "You seem to be lost"										
+
+										OtherWise
+										? "你看起来像是迷路了：）"
+									EndCase
 								</vfp:script>								
 							</h3>
 							<vfp:script>
-								IF GetLang() == 'ES'
-									? "<p>la página que estás buscando no está disponible!</p>"
-									? "<a href='" + GetURLHome() + "' class='link_404'>Ir al Inicio</a>"
-								ELSE
-									? "<p>the page you are looking for not avaible!</p>"
-									? "<a href='" + GetURLHome() + "' class='link_404'>Go to Home</a>"
-								ENDIF
+								Do Case
+									Case GetLang() == 'ES'
+										? "<p>la página que estás buscando no está disponible!</p>"
+										? "<a href='" + GetURLHome() + "' class='link_404'>Ir al Inicio</a>"
+
+									Case GetLang() == 'EN'
+										? "<p>the page you are looking for is not available!</p>"
+										? "<a href='" + GetURLHome() + "' class='link_404'>Go to home page</a>"
+
+									OtherWise
+										? "<p>您查找的页面不可用！</p>"
+										? "<a href='" + GetURLHome() + "' class='link_404'>返回主页</a>"
+								EndCase
 							</vfp:script>							
 						</div>
 					</div>
